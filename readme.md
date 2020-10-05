@@ -30,13 +30,13 @@ The file `res/tree.txt` provides the layout of the folder.
 ### Citation
 If you use this work, please cite us:
 
-Müller, Nicolas Michael, Daniel Kowatsch and Konstantin Böttinger. Data Poisoning Attacks on Regression Learning and Corresponding Defenses - IEEE Pacific Rim International Symposium on Dependable Computing (PRDC) 2020
+Nicolas M. Müller, Daniel Kowatsch and Konstantin Böttinger. Data Poisoning Attacks on Regression Learning and Corresponding Defenses - IEEE Pacific Rim International Symposium on Dependable Computing (PRDC) 2020
 
 ### Bugs
 If you find bugs, feel free to fix them and send us a pull request.
 
 ### References
 
-[1] Jagielski,   M.,   Oprea,   A.,   Biggio,   B.,   Liu,   C.,   Nita-Rotaru,  C.,  and Li,  B.   Manipulating Machine Learn-ing:  Poisoning  Attacks  and  Countermeasures  for  Re-gression  Learning.InProceedings  -  IEEE  Sympo-sium  on  Security  and  Privacy,   volume  2018-May,pp.  19–35.  IEEE,  may  2018.   ISBN  9781538643525.doi:/10.1109/SP.2018.00057.URL/https://ieeexplore.ieee.org/document/8418594/.
+[1] Jagielski,   M.,   Oprea,   A.,   Biggio,   B.,   Liu,   C.,   Nita-Rotaru,  C.,  and Li,  B.   Manipulating Machine Learn-ing:  Poisoning  Attacks  and  Countermeasures  for  Regression  Learning. InProceedings  -  IEEE  Symposium  on  Security  and  Privacy,   volume  2018-May,pp.  19–35.  IEEE,  may  2018.   ISBN  9781538643525.doi:/10.1109/SP.2018.00057.URL/https://ieeexplore.ieee.org/document/8418594/.
 
 [2] IWPC Data set: https://www.pharmgkb.org/downloads
