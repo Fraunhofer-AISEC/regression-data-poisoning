@@ -1,0 +1,12 @@
+keras
+seaborn
+pathos
+dill
+tabulate
+matplotlib
+numpy
+tensorflow==2.0.0-rc1
+scikit-learn
+tqdm
+pandas
+plotly
