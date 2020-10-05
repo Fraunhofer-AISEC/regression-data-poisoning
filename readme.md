@@ -1,6 +1,6 @@
 # Data Poisoning Attacks on Regression Learning and Corresponding Defenses
-This repository containts the code for the paper 'Data Poisoning Attacks on Regression Learning and Corresponding Defenses'
-(see [ArXiv.org for full paper](https://arxiv.org/pdf/2009.07008.pdf)).
+This repository contains the code for the paper 'Data Poisoning Attacks on Regression Learning and Corresponding Defenses'
+(see [ArXiv.org for full paper](https://arxiv.org/pdf/2009.07008.pdf)), published at PRDC2020.
 This repository implements the 'Flip' data poisoning attack on regression learning, and the
 'Trim' and 'iTrim' defense. It evaluates these on 26 data sets.
 
