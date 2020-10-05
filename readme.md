@@ -28,7 +28,9 @@ The file `res/tree.txt` provides the layout of the folder.
 
 
 ### Citation
-If you use this work, please cite us: TODO (will add as soon as published on ArXiv)
+If you use this work, please cite us:
+
+Müller, Nicolas Michael, Daniel Kowatsch and Konstantin Böttinger. Data Poisoning Attacks on Regression Learning and Corresponding Defenses - IEEE Pacific Rim International Symposium on Dependable Computing (PRDC) 2020
 
 ### Bugs
 If you find bugs, feel free to fix them and send us a pull request.
